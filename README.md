@@ -1,4 +1,4 @@
-# Graph regularization centrality
+# Graph Regularization Centrality
 
 Alcebiades Dal Col and Fabiano Petronetto
 
@@ -8,4 +8,4 @@ Originally compiled in Spyder using Anaconda3-2021.11 software (https://repo.ana
 
 Mendeley Data (will appear soon)
 
-Code Ocean capsule (will appear soon)
+Code Ocean capsule (https://codeocean.com/capsule/572d5f31-7e2e-4d47-9ed3-ac1fb5429b00/)
