@@ -6,6 +6,6 @@ Python implementation related to the paper Graph regularization centrality (http
 
 Originally compiled in Spyder using Anaconda3-2021.11 software (https://repo.anaconda.com/archive/)
 
-Mendeley Data (will appear soon)
+Mendeley Data (https://doi.org/10.17632/ns63f5dj86.1)
 
 Code Ocean capsule (https://codeocean.com/capsule/5334889/tree)
